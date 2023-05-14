@@ -1,8 +1,8 @@
+import { Home } from './pages/home'
+
 function App() {
   return (
-    <>
-      <h1>Authentik App</h1>
-    </>
+    <Home />
   )
 }
 
